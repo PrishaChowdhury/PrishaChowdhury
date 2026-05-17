@@ -5,7 +5,7 @@
 💻 Working on: RAG systems, statistical analysis, ML applications  
 
 ## Featured Projects
-- [NYC Restaurant Analysis](link) - Statistical analysis of 292K inspections
+- [NYC Restaurant Analysis](PrishaChowdhury/NYC-Restaurant-Health) - Statistical analysis of 292K inspections
 - [RAG Q&A System](link) - LLM-powered document Q&A with optimization
 - [Student Engagement Dashboard](link) - Data pipeline for club analytics
 
