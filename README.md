@@ -1,6 +1,6 @@
 # Hi, I'm Prisha! 👋
 
-🎓 Data Theory @ UCLA (Transfer from IVC)  
+🎓 Data Theory and Data Science Engineering @ UCLA (Transfer from IVC)  
 📊 Passionate about using data to solve real-world problems  
 💻 Working on: RAG systems, statistical analysis, ML applications  
 
