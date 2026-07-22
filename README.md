@@ -9,7 +9,6 @@ A/B Testing | Causal Inference | Production ML Systems
 
 📫 Reach me: prisha4@ucla.edu | [[LinkedIn](https://www.linkedin.com/in/prisha-chowdhury/)]
 
-## Hi there, I'm Prisha Chowdhury 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=UCLA+Data+Theory+Student;Machine+Learning+%7C+Analytics+%7C+Applied+AI;Building+data+projects+that+turn+insights+into+action;Interested+in+Healthcare+Analytics%2C+MLOps%2C+and+AI+Systems" alt="Typing SVG" />
