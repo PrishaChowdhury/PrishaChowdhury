@@ -28,7 +28,7 @@ A/B Testing | Causal Inference | Production ML Systems
 
 ## 🚀 About Me
 
-I'm a third-year UCLA student studying **Data Theory** and minoring in **Data Science Engineering**. I'm interested in **machine learning, analytics, and applied AI**, especially where technical work can be turned into something useful, interpretable, and actionable.
+I'm an upcoming seniour at UCLA  studying **Data Theory** and minoring in **Data Science Engineering**. I'm interested in **machine learning, analytics, and applied AI**, especially where technical work can be turned into something useful, interpretable, and actionable.
 
 My work focuses on taking messy, real-world datasets and turning them into structured analyses, predictive models, dashboards, and decision-ready insights. I’m especially drawn to projects in **healthcare analytics, MLOps, and AI systems**, where both technical rigor and communication matter.
 
